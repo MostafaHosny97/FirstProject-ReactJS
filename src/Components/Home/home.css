@@ -1,0 +1,17 @@
+#home{
+  background-color: #1abc9c;
+}
+
+#home h1{
+  font-size: 60px;
+  font-weight: 800;
+}
+
+#home .home-svg{
+  width: 250px;
+  height: 250px;
+}
+
+#home .divider-custom .divider-custom-line {
+  background-color: #fff;
+}
